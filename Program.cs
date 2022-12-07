@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            EmployeeWage_UC3 partTimeEmployeeWage = new EmployeeWage_UC3();
-            partTimeEmployeeWage.PartTimeEmployeeWage();
+            EmployeeWage_UC4 dailywage = new EmployeeWage_UC4();
+            dailywage.DailyWage();
 
         }
     }
