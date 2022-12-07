@@ -4,7 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Employee Wage Problem");
+            EmployeeWage_UC1 employeePresentAbsent = new EmployeeWage_UC1();
+            employeePresentAbsent.EmployeePresentAbsent();
+
         }
     }
 }
