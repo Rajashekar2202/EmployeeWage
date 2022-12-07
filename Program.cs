@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            EmployeeWage_UC1 employeePresentAbsent = new EmployeeWage_UC1();
-            employeePresentAbsent.EmployeePresentAbsent();
+            EmployeeWage_UC3 partTimeEmployeeWage = new EmployeeWage_UC3();
+            partTimeEmployeeWage.PartTimeEmployeeWage();
 
         }
     }
